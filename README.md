@@ -1,2 +1,15 @@
-# sports-bd
-A Sports Web App with TypeScript and Tailwind CSS
+## Building a sports web app with typescript and tailwind css
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
